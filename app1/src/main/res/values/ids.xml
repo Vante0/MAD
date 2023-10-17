@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="option1Btn" type="id" />
+    <item name="option2Btn" type="id" />
+    <item name="option3Btn" type="id" />
+    <item name="nextQueBtn" type="id" />
+</resources>
